@@ -1,0 +1,22 @@
+{
+  "name": "mailclerk",
+  "version": "0.1.0",
+  "description": "Send mail with mailclerk.app",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailclerk/mailclerk-node.git"
+  },
+  "keywords": [
+    "mailclerk"
+  ],
+  "author": "Greg Sherrid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailclerk/mailclerk-node/issues"
+  },
+  "homepage": "https://github.com/mailclerk/mailclerk-node#readme"
+}

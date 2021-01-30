@@ -70,7 +70,6 @@ mailclerk.deliver("welcome-email", "eve@example.com").then(data => {
 })
 ```
 
-
 See [Mailclerk documentation](https://dashboard.mailclerk.app/docs) for more details.
 
 ## Tests

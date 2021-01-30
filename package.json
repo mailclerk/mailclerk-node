@@ -1,8 +1,8 @@
 {
   "name": "mailclerk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Send mail with mailclerk.app",
-  "main": "lib/index.js",
+  "main": "lib/mailclerk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mailclerk/mailclerk-node/issues"
   },
-  "homepage": "https://github.com/mailclerk/mailclerk-node#readme"
+  "homepage": "https://github.com/mailclerk/mailclerk-node#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }

@@ -1,3 +1,3 @@
-# 0.1.0 (2021-01-28)
+# 0.1.1 (2021-01-2)
 
-- First published PyPI version
+- First functional published PyPI version

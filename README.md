@@ -11,7 +11,8 @@ Mailclerk helps anyone on your team design great emails, improve their performan
 - [Setup](#setup)
 - [API Key & URL](#api-key--url)
 - [Usage](#usage)
-- [Tests](#tests)
+- [Testing](#testing)
+- [Gem Tests](#gem-tests)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
 - [Contributions](#contributions)
@@ -72,7 +73,13 @@ mailclerk.deliver("welcome-email", "eve@example.com").then(data => {
 
 See [Mailclerk documentation](https://dashboard.mailclerk.app/docs) for more details.
 
-## Tests
+## Testing
+
+Test support is not yet implemented for the python SDK. Refer to the
+[Ruby SDK](https://github.com/mailclerk/mailclerk-ruby#testing)
+to see how it will function, when implemented.
+
+## Gem Tests
 
 Tests aren't currently implemented.
 
